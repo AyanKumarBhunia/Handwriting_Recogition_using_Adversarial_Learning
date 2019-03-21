@@ -6,7 +6,7 @@ Handwritten Word Recognition and Spotting is a challenging field dealing with ha
 
 ## Architecture
 
-![Architecture](Model.png)
+![Architecture](Model.jpg)
 
 ## Citation
 
