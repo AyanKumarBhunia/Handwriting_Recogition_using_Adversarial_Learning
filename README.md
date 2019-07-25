@@ -12,10 +12,11 @@ Handwritten Word Recognition and Spotting is a challenging field dealing with ha
 
 If you find this article useful in your research, please consider citing:
 ```
-@article{bhunia2018handwriting,
-  title={Handwriting Recognition in Low-resource Scripts using Adversarial Learning},
-  author={Bhunia, Ayan Kumar and Das, Abhirup and Kishore, Perla Sai Raj and Ghose, Shuvozit and Roy, Partha Pratim},
-  journal={IEEE CVPR},
+@inproceedings{bhunia2019handwriting,
+  title={Handwriting Recognition in Low-Resource Scripts Using Adversarial Learning},
+  author={Bhunia, Ayan Kumar and Das, Abhirup and Bhunia, Ankan Kumar and Kishore, Perla Sai Raj and Roy, Partha Pratim},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={4767--4776},
   year={2019}
 }
 ```
